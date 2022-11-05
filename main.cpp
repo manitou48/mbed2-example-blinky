@@ -3,7 +3,7 @@
 DigitalOut myled(LED1);
 
 int main() {
-    printf("later tom\n");
+    printf("later tom ok \n");
   while(1) {
     myled = 1;
     wait(5.2);
